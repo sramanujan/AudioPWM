@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AudioPWM</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="play_string">Play</string>
+    <string name="default_pwm">0.8</string>
+    <string name="pwm_percentage_string">PWM Percentage</string>
+
+</resources>
